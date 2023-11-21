@@ -1,0 +1,147 @@
+body{
+    background-image: url('img/téléchargement.jpeg') ;
+    background-blend-mode: multiply;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;    
+}
+
+.accueil{
+    width: 100%;
+}
+
+.logoDD {
+    width: 50px;
+    height: auto;
+
+  }
+
+  #download {
+    width: 35px;
+    height: auto;
+
+  }
+
+  #CV{
+    margin-left: 30px;
+  }
+  nav{
+    background-color: #01019b;
+    
+  }
+
+  .nav-link, .text-voirplus{
+    font-family: "Bebas Neue", Helvetica;
+    font-size: 32px;
+    font-weight: 540;
+    letter-spacing: 0;
+    line-height: normal;
+    text-wrap: nowrap;
+  }
+
+  nav .nav-link:hover{
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: blue;
+  }
+
+  .ellipse{
+    margin-top: 95px;
+    width: 100%;
+    height: auto;
+
+  }
+
+  .meName{
+    font-family: "Bebas Neue", Helvetica;
+    font-size: 32px;
+    font-weight: 450;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .text-voirplus{
+    background-color: #01019b;
+  }
+
+  .me_img_rectangle{
+    width: 400px;
+    height: auto;
+  }
+
+  .AP_gauche{
+    width: 1200px;
+    height: auto;
+  }
+
+  .back-end, .front-end{
+    background-color: #01019b;
+  }
+
+  .back-end img,.front-end img{
+    width: 30px;
+    height: auto;
+  }
+
+  .Front_end_title, .back_end_title{
+    font-family: "Montserrat";
+    font-size: 38px;
+  }
+
+  .competence-item{
+    font-family: "Montserrat";
+    font-size: 24px;
+  }
+
+  .niveau{
+    width: 100%;
+    height: auto;
+    margin-bottom: 120px;
+  }
+
+  .projets img{
+    width: 678px;
+    height: auto;
+  }
+
+  .Email img{
+      width: 97px;
+      height: auto;
+  
+  }
+  
+  .Appel img{
+    width: 100px;
+    height: auto;
+  }
+
+  .WhatsApp img{
+    width: 90px;
+    height: auto;
+  }
+
+  .Email a,.Appel a,.WhatsApp a, footer a{
+    text-decoration: none;
+  }
+
+  .linkedin img{
+    width: 80px;
+    height: auto;
+  }
+
+  .github img{
+    width: 76px;
+    height: auto;
+  }
+
+  .instagram img{
+    width: 77px;
+    height: auto;
+  }
+
+
+  #copyright {
+    width: 20px;
+    height: auto;
+  }
